@@ -10,7 +10,6 @@ def pascal_triangle(n):
     if n <= 0:
         return []
 
-
     """initialize an empty resultig array"""
     pascal = [[] for idx in range(n)]
 
