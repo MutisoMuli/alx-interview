@@ -8,4 +8,4 @@ Using recursive functions to implement backtracking algorithms. Recursion in Pyt
 
 Creating and manipulating lists, especially to store the positions of queens on the board. Python Lists Python Command Line Arguments:
 
-Handling command-line arguments with the sys module. Command Line Arguments in Python By studying these concepts and utilizing the resources provided, you will be equipped with the knowledge required to implement an efficient solution to the N queens problem using Python. This project not only tests programming and problem-solving skills but also offers an excellent opportunity to learn about algorithmic thinking and optimization techniques.
+Handling command-line arguments with the sys module. Command Line Arguments in Python By studying these concepts and utilizing the resources provided, you will be equipped with the knowledge required to implement an efficient solution to the N queens problem using Python. This project not only tests programming and problem-solving skills but also offers an excellent opportunity to learn about algorithmic thinking.
