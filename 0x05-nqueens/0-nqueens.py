@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-""" N QUEENS ALGORITHM WITH BACKTRACKING """
+""" N QUEENS ALGORITHM WITH BACKTRACKING (RECURSION INSIDE LOOP) """
 import sys
 
 
 class NQueen:
-    """ Class 4 solving N Queen Problem """
+    """ Class for solving N Queen Problem """
 
     def __init__(self, n):
         """ Global Variables """
@@ -13,7 +13,7 @@ class NQueen:
         self.res = []
 
     def place(self, k, i):
-        """ Check if k Queen can be placed in column i(True)
+        """ Checks if k Queen can be placed in i column (True)
         or if the are attacking queens in row or diagonal (False)
         """
 
